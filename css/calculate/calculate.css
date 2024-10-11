@@ -1,0 +1,16 @@
+.updown-all-history{
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.history-box {
+    display:flex;
+    justify-content: space-around;
+}
+
+p {
+    font-weight: bold;
+    font-size: 20px;
+}
